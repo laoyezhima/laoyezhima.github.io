@@ -1,3 +1,3 @@
 # laoyezhima.github.io
 
-这是一款由我的好朋友 deep sleep 利用 AI 工具打造的小游戏，旨在模仿 Android 16 的彩蛋；不过真正的彩蛋其实是他本人——你得在左上角的“信息”图标上连续点击 15 次。虽然挺酷的，但还差那么一点——这里奉上源代码，未来的更新会更加有趣！敬请期待
+This is a little game created by my good friend deep sleep using AI tools, designed to mimic the Easter egg in Android 16; but the real Easter egg is actually him—you need to tap the "Info" icon in the top left corner 15 times in a row. It's pretty cool, but it still falls short of perfection—here's the source code, and future updates will be even more fun! Stay tuned
